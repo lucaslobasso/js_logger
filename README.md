@@ -9,7 +9,7 @@
 
 <!-- Description -->
 <p align="center">
-  Simple js plugin that automatically logs your runtime errors.
+  A simple JavaScript plugin that automatically logs your runtime errors, AJAX errors and rejected Promises.
   <br/>
   <a href="https://github.com/lucaslobasso/js_logger/issues">Report a bug</a>
   ·
